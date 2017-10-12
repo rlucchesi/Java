@@ -1,0 +1,7 @@
+== Protocol ==
+The protocol is documented in the interface file GameConstants.java with javadoc style comments.
+
+BONUS Points
+- A game can have more than two players: to set it up, just use the line argument at the Server file -num #.
+- Sounds
+- Restart Game
